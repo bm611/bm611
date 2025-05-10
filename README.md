@@ -7,9 +7,7 @@
 <a href="https://github.com/bm611/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bm611&show_icons=true&theme=tokyonight&hide_rank=true&card_width=400px" />
 </a>
-<a href="https://github.com/bm611/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm611&layout=normal&show_icons=true&theme=tokyonight&hide_progress=true" />
-</a>
+
 
 <!---
 bm611/bm611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
