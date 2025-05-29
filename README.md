@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [Bharath](https://bm.reflex.run)
 - Currently learning/building
     - 📟 cli apps with `go`
-    - 📳 mobile apps with `expo`
     - 🌐 web apps with `python`
 
 <a href="https://github.com/bm611/github-readme-stats">
