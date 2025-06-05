@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Bharath](https://bm.reflex.run)
+- 👋 Hi, I’m [Bharath](https://bharathmohan.xyz)
 - Currently learning/building
     - 📟 cli apps with `go`
     - 🌐 web apps with `python`
